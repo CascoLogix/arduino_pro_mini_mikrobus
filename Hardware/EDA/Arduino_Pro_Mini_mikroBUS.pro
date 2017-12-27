@@ -1,4 +1,4 @@
-update=12/26/2017 12:04:57 PM
+update=12/26/2017 10:57:34 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -79,3 +79,13 @@ LibName47=C:/Engineering/KiCAD_Libraries/Schematic/Test_Point
 LibName48=C:/Engineering/KiCAD_Libraries/Schematic/TI_Luminary
 LibName49=C:/Engineering/KiCAD_Libraries/Schematic/TI_MSP430
 LibName50=C:/Engineering/KiCAD_Libraries/Schematic/Transducer
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=Z:/Engineering/Projects/Adapter_Boards/Arduino_Pro_Mini_mikroBUS/Hardware/EDA/Drawing/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
