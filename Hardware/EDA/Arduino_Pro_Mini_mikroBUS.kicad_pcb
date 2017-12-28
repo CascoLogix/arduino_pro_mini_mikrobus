@@ -3,7 +3,7 @@
   (general
     (links 93)
     (no_connects 1)
-    (area 60.884999 31.674999 99.135001 101.675001)
+    (area 45.184287 23.97 111.025715 109.380001)
     (thickness 1.6)
     (drawings 37)
     (tracks 319)
@@ -2018,7 +2018,7 @@
     (arrow2a (pts (xy 57.15 101.6) (xy 57.736421 100.473496)))
     (arrow2b (pts (xy 57.15 101.6) (xy 56.563579 100.473496)))
   )
-  (gr_text 61xxx (at 64.008 100.33) (layer F.SilkS)
+  (gr_text 61539 (at 64.008 100.33) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.2032)))
   )
   (gr_text V1.0 (at 96.774 83.82 90) (layer F.SilkS)

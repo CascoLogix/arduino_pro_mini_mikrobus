@@ -3,7 +3,7 @@
   (general
     (links 93)
     (no_connects 1)
-    (area 45.184287 23.97 111.025715 109.380001)
+    (area 60.884999 31.674999 99.135001 101.675001)
     (thickness 1.6)
     (drawings 37)
     (tracks 319)
@@ -90,7 +90,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory Z:/Engineering/Projects/Adapter_Boards/Arduino_Pro_Mini_mikroBUS/Hardware/EDA/Gerbers/))
+      (outputdirectory Gerbers/))
   )
 
   (net 0 "")
