@@ -3,7 +3,7 @@
   (general
     (links 93)
     (no_connects 1)
-    (area 45.184287 23.97 111.025715 109.380001)
+    (area 60.884999 31.674999 99.135001 101.675001)
     (thickness 1.6)
     (drawings 37)
     (tracks 319)
@@ -271,7 +271,7 @@
       (net 16 VCC))
     (pad 1 thru_hole rect (at -2.54 0 180) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask F.SilkS)
       (net 11 5.0V))
-    (model C:\Engineering\KiCAD_Libraries\3D\Headers\HEADER_M_2.54MM_1R3P_ST_AU_PTH.wrl
+    (model C:/Engineering/KiCAD_Libraries/3D/Headers/VRML/HEADER_M_2.54MM_1R3P_0.230H_0.120T_ST_AU_PTH.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -583,7 +583,7 @@
       (net 2 GND))
     (pad 3 thru_hole circle (at 4.7 3) (size 2.6 2.6) (drill 1.6) (layers *.Cu *.Mask)
       (net 2 GND))
-    (model ${KISYS3DMOD}/Connectors.3dshapes/Barrel_Jack_CUI_PJ-102AH.wrl
+    (model C:/Engineering/KiCAD_Libraries/3D/Connectors/Power/VRML/CUI_PJ-102AH.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -796,7 +796,7 @@
       (net 12 SCL))
     (pad 1 thru_hole rect (at -1.27 0 270) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask F.SilkS)
       (net 10 SDA))
-    (model C:/Engineering/KiCAD_Libraries/3D/Headers/VRML/HEADER_F_2.54MM_1R2P_ST_SN_PTH.wrl
+    (model C:/Engineering/KiCAD_Libraries/3D/Headers/VRML/HEADER_F_2.54MM_1R2P_ST_AU_PTH.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
