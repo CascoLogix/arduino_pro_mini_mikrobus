@@ -13,6 +13,13 @@
   )
 
   (page A4)
+  (title_block
+    (title "Arduino Pro Mini mikroBUS Develepment Board")
+    (date 2018-01-02)
+    (rev 1.0)
+    (company "Casco Logix, LLC")
+  )
+
   (layers
     (0 F.Cu signal)
     (1 Power.Cu power)
